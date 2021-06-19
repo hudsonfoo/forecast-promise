@@ -27,6 +27,7 @@ class Forecast {
 			['whoAmI', 'current_user'],
 			['clients'],
 			['people'],
+			['placeholders'],
 			['projects'],
 			['assignments'],
 			['milestones'],
